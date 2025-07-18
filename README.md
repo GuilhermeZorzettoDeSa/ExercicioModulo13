@@ -3,8 +3,8 @@ Sobre o Projeto: Resolução do Módulo 13 "Estatística Básica" do curso de Ci
 
 Esse projeto se trata do uso do Python comas bibliotecas Pandas, Matplotlib e Plotly para ler uma base de dados de produtos de um supermercado chileno.
 
-Objetivo: A proposta do projeto é utilizar estatística e elementos de visualização de gráficos para atender os desafios propostos pelos tutores e retirar insights valiosos, explicando-os por storytelling
+Objetivo: A proposta do projeto é utilizar estatística e elementos de visualização de gráficos para atender os desafios propostos pelos tutores e retirar insights valiosos, explicando-os por storytelling.
 
-Instruções: Para o código ser visto, é preciso que as bibliotecas estejam devidamente instaladas. O arquivo "requirements.txt" contém tudo que deve estar instalado.
+Instruções: Para o código ser visto, é preciso que as bibliotecas estejam devidamente instaladas. O arquivo "requirements.txt" contém tudo que deve estar instalado. O projeto também necessita que o arquivo .ipynb e a base de dados .csv estejam na mesma pasta para funcionar.
 
-Aviso: Este projeto pertence ao aluno e programador Guilherme Zorzetto de Sá, proposto pela EBAC e resolvido por ele. O uso desses arquivos deve conter os devidos créditos e não pode ser usado como propriedade própria
+Aviso: Este projeto pertence ao aluno e programador Guilherme Zorzetto de Sá, proposto pela EBAC e resolvido por ele. O uso desses arquivos deve conter os devidos créditos e não pode ser usado como propriedade própria.
